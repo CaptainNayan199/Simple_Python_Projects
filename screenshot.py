@@ -1,3 +1,4 @@
+#importing packages
 import pyautogui
 import time
 from random import randint
