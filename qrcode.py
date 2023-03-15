@@ -1,3 +1,4 @@
+#importing packages.
 import pyqrcode
 import png
 
