@@ -12,7 +12,7 @@ Here are some of the projects you'll find in this repository:
 - **qr code generator:** A simple qr code generator.
 - **Password Generator:** Generates a random password that can be used to secure your online accounts.
 - **screenshot taker:** Generates a simple GUI based application that can take real time screenshot and save it in the desired file location.
-- **Avengers Logo:** Draws an Avenger(a movie full of super heroes) logo with the use of turtle graphics. 
+- **Avengers Logo:** Draws an Avenger(a movie full of super heroes) logo with the use of turtle graphics.
 
 
 ## 🤔 How to Use
