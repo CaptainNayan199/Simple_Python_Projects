@@ -7,7 +7,7 @@ if length >= 3:
     ran_first = input("Give me a 3 character long random word : ")
     ran_last = input("Give me a 3 character long random word : ")
     dec_name = ran_first+name+ran_last
-    print(f"Your secret word is `{dec_name}`.")
+    print(f"Your encoded secret word is `{dec_name}`.")
     ask = input("Do you want to decode your secret word ? [Y/N] : ")
     if ask == 'y' or ask == 'Y' or ask == "yes" or ask == 'YES' or ask =="Yes":
         print("I am decoding it...... Here it is")
