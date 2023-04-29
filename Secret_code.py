@@ -32,7 +32,7 @@ elif length>=2 and length<3:
         ec_rev = ""
         for i in dec_rev:
             ec_rev = i + ec_rev
-        print(f"Your encoded and original secret word is `{ec_rev}`")
+        print(f"Your decoded and original secret word is `{ec_rev}`")
     else:
         print("If you dont wanna encode it then fine... It's your choice. Bye have a good time.")
 
