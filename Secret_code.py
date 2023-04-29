@@ -15,7 +15,7 @@ if length >= 3:
         l_index = ec_name[len(ec_name)-1]
         ec_name = ec_name[0:-1]
         ec_name = l_index+ec_name
-        print(f"Your encoded and original secret word is `{ec_name}`")
+        print(f"Your decoded and original secret word is `{ec_name}`")
     else:
         print("If you dont wanna encode it then fine... It's your choice. Bye have a good time.")
 
