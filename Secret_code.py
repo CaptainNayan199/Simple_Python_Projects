@@ -35,6 +35,5 @@ elif length>=2 and length<3:
         print(f"Your decoded and original secret word is `{ec_rev}`")
     else:
         print("If you dont wanna encode it then fine... It's your choice. Bye have a good time.")
-
 else:
     print("I am sorry but i cannot decode and encode for a single character or multi word. Better if you give me multi character and single word (eg: aeroplane)")
