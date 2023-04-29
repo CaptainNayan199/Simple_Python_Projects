@@ -1,11 +1,11 @@
-name = input("Give me a secret word : ")
+name = input("Give me a secret and single word to encode : ")
 length = len(name)
 if length >= 3:
     first_char = name[0]
     name = name[1:]
     name = name + first_char
-    ran_first = input("Give me a 3 letter long random word for first : ")
-    ran_last = input("Give me a 3 letter long random word for last : ")
+    ran_first = input("Give me a 3 character long random word : ")
+    ran_last = input("Give me a 3 character long random word for last : ")
     dec_name = ran_first+name+ran_last
     print(f"Your secret word is `{dec_name}`.")
     ask = input("Do you want to decode your secret word ? [Y/N] : ")
