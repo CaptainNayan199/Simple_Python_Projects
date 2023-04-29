@@ -5,7 +5,7 @@ if length >= 3:
     name = name[1:]
     name = name + first_char
     ran_first = input("Give me a 3 character long random word : ")
-    ran_last = input("Give me a 3 character long random word for last : ")
+    ran_last = input("Give me a 3 character long random word : ")
     dec_name = ran_first+name+ran_last
     print(f"Your secret word is `{dec_name}`.")
     ask = input("Do you want to decode your secret word ? [Y/N] : ")
