@@ -25,7 +25,7 @@ elif length>=2 and length<3:
     for i in name:
         dec_rev = i + dec_rev
     print(
-        f"Hmmm! You gave a 2 secret word, so i will just reverse it and present you as `{dec_rev}`")
+        f"Hmmm! You gave a 2 character long secret word, so i will just reverse it and present you as `{dec_rev}`")
     ask = input("Do you want to decode your secret word ? [Y/N] : ")
     if ask == 'y' or ask == 'Y' or ask == "yes" or ask == 'YES' or ask =="Yes":
         print("I am encoding it...... Here it is")
