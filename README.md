@@ -16,7 +16,6 @@ Here are some of the projects you'll find in this repository:
 - **Random number generator:** It generates a random number.
 - **Pattern Generator:** It generates a desired patterns by taking user input.
 
-
 ## 🤔 How to Use
 
 To use any of these projects, simply clone this repository to your local machine and run the Python file for the project you're interested in. 
