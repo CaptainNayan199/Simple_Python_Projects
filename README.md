@@ -1,6 +1,6 @@
 # 🐍 Python Projects 🚀
 
-Welcome to my collections of Python projects! 🎉
+Welcome to my collections of severalPython projects! 🎉
 
 This repository contains a variety of simple and fun Python projects that I've created in my free time. 
 From silly simple games to practical utilities, there's something here for everyone to enjoy.
