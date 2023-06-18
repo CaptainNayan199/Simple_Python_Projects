@@ -16,6 +16,7 @@ Here are some of the projects you'll find in this repository:
 - **Random number generator:** It generates a random number.
 - **Pattern Generator:** It generates a desired patterns by taking user input.
 - **Secret Code:** It generates a unique secret code and later decode it as well.
+- **Analog Clock:**
 
 ## 🤔 How to Use
 
