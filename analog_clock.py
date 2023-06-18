@@ -45,5 +45,8 @@ def clock_logic():
     # Hour hand drawing
 
     hour_angle = (hour + minute / 60) * math.pi / 6 - math.pi / 2
+    hour_x = 400 / 2 + 0.5 * 400 / 2 * math.cos(hour_angle)
+    hour_y = 400 / 2 + 0.5 * 400 / 2 * math.sin(hour_angle)
+    canvas.create_line(400 / 2, 400 / 2, hour_x, hour_y, fill="black", width=6)
 
 
