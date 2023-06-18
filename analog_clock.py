@@ -16,3 +16,7 @@ def clock_logic():
     second = now.tm_sec
 
     # Clock logic
+
+    canvas.create_oval(2, 2, 400, 400, outline="gold", width=2)
+    
+    # Hours numbers
