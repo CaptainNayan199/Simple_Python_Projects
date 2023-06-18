@@ -56,3 +56,9 @@ def clock_logic():
     minute_y = 400 / 2 + 0.7 * 400 / 2 * math.sin(minute_angle)
     canvas.create_line(400 / 2, 400 / 2, minute_x, minute_y, fill="black", width=4)
 
+    # Draw second hand
+
+    second_angle = second * math.pi / 30 - math.pi / 2
+    second_x = 400 / 2 + 0.6 * 400 / 2 * math.cos(second_angle)
+    second_y = 400 / 2 + 0.6 * 400 / 2 * math.sin(second_angle)
+    canvas.create_line(400 / 2, 400 / 2, second_x, second_y, fill="black", width=1)
