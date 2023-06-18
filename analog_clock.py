@@ -68,4 +68,4 @@ def clock_logic():
 # canvas.after(1000, clock_logic)
 
 clock_logic()
-root
+root.mainloop()
