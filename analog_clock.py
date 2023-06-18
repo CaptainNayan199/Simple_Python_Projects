@@ -14,3 +14,5 @@ def clock_logic():
     hour = now.tm_hour % 12
     minute = now.tm_min
     second = now.tm_sec
+
+    # Clock logic
