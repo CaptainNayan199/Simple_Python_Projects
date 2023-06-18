@@ -9,4 +9,7 @@ canvas.pack()
 
 
 def clock_logic():
+    canvas.delete("All")
+    now = time.localtime()
+    hour = now.tm_hour % 12
     
