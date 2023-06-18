@@ -20,3 +20,5 @@ def clock_logic():
     canvas.create_oval(2, 2, 400, 400, outline="gold", width=2)
     
     # Hours numbers
+    for i in range(12):
+        angle = i * math.pi / 6 - math.pi / 2
