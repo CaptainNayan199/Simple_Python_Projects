@@ -17,7 +17,7 @@ Here are some of the projects you'll find in this repository:
 - **Pattern Generator:** It generates a desired patterns by taking user input.
 - **Secret Code:** It generates a unique secret code and later decode it as well.
 - **Analog Clock:** A simple analog clock using Python Tkinter.
-- **Rock paper scissor:** A simple rock paper scissor game that can be played against computer 
+- **Rock paper scissor:** A simple rock paper scissor game that can be played against computer f
 
 ## 🤔 How to Use
 
