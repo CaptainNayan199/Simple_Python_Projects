@@ -7,4 +7,4 @@ for i in range (1000):
     art.forward(200)
 turtle.done()
 
-# this code generates a simple mandala art pattern! One can change the coordinates of forward and left
+# this code generates a simple mandala art pattern! One can change the coordinates of forward and left and make according to 
