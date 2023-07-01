@@ -7,4 +7,4 @@ for i in range (1000):
     art.forward(200)
 turtle.done()
 
-# this code 
+# this code generates 
