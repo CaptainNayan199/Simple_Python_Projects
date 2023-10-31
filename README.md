@@ -1,4 +1,4 @@
-** I will be 
+** I will be uploading 
 # 🐍 Python Projects 🚀 
 
 Welcome to my collections of several Python projects! 🎉
