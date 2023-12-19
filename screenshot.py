@@ -12,12 +12,6 @@ def screenshot():
     img = pyautogui.screenshot(name)
     img.show()
 
-
-
-
-
-
-
 # screenshot()
 
 root = neha.Tk()
